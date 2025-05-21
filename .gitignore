@@ -1,0 +1,10 @@
+/bin/
+/obj/
+*.dll
+*.pdb
+*.nuget
+*.runtimeconfig.json
+.DS_Store
+.vscode/
+.idea/
+.config/

@@ -1,0 +1,14 @@
+/Users/dust/Documents/Programacion/12_cuatrimestre/Sistemas_propietarios_III/proyecto_1/Consome/bin/Debug/net8.0/Consome
+/Users/dust/Documents/Programacion/12_cuatrimestre/Sistemas_propietarios_III/proyecto_1/Consome/bin/Debug/net8.0/Consome.deps.json
+/Users/dust/Documents/Programacion/12_cuatrimestre/Sistemas_propietarios_III/proyecto_1/Consome/bin/Debug/net8.0/Consome.runtimeconfig.json
+/Users/dust/Documents/Programacion/12_cuatrimestre/Sistemas_propietarios_III/proyecto_1/Consome/bin/Debug/net8.0/Consome.dll
+/Users/dust/Documents/Programacion/12_cuatrimestre/Sistemas_propietarios_III/proyecto_1/Consome/bin/Debug/net8.0/Consome.pdb
+/Users/dust/Documents/Programacion/12_cuatrimestre/Sistemas_propietarios_III/proyecto_1/Consome/obj/Debug/net8.0/Consome.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dust/Documents/Programacion/12_cuatrimestre/Sistemas_propietarios_III/proyecto_1/Consome/obj/Debug/net8.0/Consome.AssemblyInfoInputs.cache
+/Users/dust/Documents/Programacion/12_cuatrimestre/Sistemas_propietarios_III/proyecto_1/Consome/obj/Debug/net8.0/Consome.AssemblyInfo.cs
+/Users/dust/Documents/Programacion/12_cuatrimestre/Sistemas_propietarios_III/proyecto_1/Consome/obj/Debug/net8.0/Consome.csproj.CoreCompileInputs.cache
+/Users/dust/Documents/Programacion/12_cuatrimestre/Sistemas_propietarios_III/proyecto_1/Consome/obj/Debug/net8.0/Consome.dll
+/Users/dust/Documents/Programacion/12_cuatrimestre/Sistemas_propietarios_III/proyecto_1/Consome/obj/Debug/net8.0/refint/Consome.dll
+/Users/dust/Documents/Programacion/12_cuatrimestre/Sistemas_propietarios_III/proyecto_1/Consome/obj/Debug/net8.0/Consome.pdb
+/Users/dust/Documents/Programacion/12_cuatrimestre/Sistemas_propietarios_III/proyecto_1/Consome/obj/Debug/net8.0/Consome.genruntimeconfig.cache
+/Users/dust/Documents/Programacion/12_cuatrimestre/Sistemas_propietarios_III/proyecto_1/Consome/obj/Debug/net8.0/ref/Consome.dll
