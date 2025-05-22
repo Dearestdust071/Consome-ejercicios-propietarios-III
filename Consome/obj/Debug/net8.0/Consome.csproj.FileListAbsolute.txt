@@ -12,3 +12,4 @@
 /Users/dust/Documents/Programacion/12_cuatrimestre/Sistemas_propietarios_III/proyecto_1/Consome/obj/Debug/net8.0/Consome.pdb
 /Users/dust/Documents/Programacion/12_cuatrimestre/Sistemas_propietarios_III/proyecto_1/Consome/obj/Debug/net8.0/Consome.genruntimeconfig.cache
 /Users/dust/Documents/Programacion/12_cuatrimestre/Sistemas_propietarios_III/proyecto_1/Consome/obj/Debug/net8.0/ref/Consome.dll
+/Users/dust/Documents/Programacion/12_cuatrimestre/Sistemas_propietarios_III/proyecto_1/Consome/obj/Debug/net8.0/Consome.sourcelink.json
